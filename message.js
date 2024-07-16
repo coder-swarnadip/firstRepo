@@ -26,5 +26,5 @@ kham.addEventListener("click", function(){
     main.innerHTML="<p>this is your message</p>";
 
 
-    console.log("open the massege!");
+    console.log("open the massege 2!");
 })
